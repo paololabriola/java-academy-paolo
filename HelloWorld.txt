@@ -1,2 +1,3 @@
-Hello Italy!
 Hello World!
+Hello Italy!
+Hello Europe!
